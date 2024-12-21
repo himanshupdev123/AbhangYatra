@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AbhangYatra</string>
+    <string name="abhangyatra">AbhangYatra</string>
+    <string name="goad_tuze_roop">Goad Tuze Roop</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="home">Home</string>
+    <string name="teerth_vittala_kshetra_vittala">Teerth Vittala Kshetra Vittala</string>
+</resources>
